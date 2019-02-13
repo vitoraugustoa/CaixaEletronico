@@ -1,0 +1,12 @@
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csprojResolveAssemblyReference.cache
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.Cache
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\Caelum_CaixaEletronico.Form1.resources
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.CadastroDeContas.resources
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.FormTeste.resources
+C:\Users\VITOR\Documents\Progamação Web\Curso APS.net Alura\Projeto Caixa Eletronico C#\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Linq.resources
